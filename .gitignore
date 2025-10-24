@@ -1,3 +1,6 @@
 /__pycache__
 /matched_imgs
 /chroma_db
+/modules/__pycache__/
+venv
+clip*
